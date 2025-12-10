@@ -35,7 +35,7 @@ The paper organizes research progress from 2014 to 2024 into a unified taxonomy:
 
 ## 🧩 Link
 1. 📄 [Medium Article](https://medium.com/@s9070292108/dive-into-time-series-anomaly-detection-a-friendly-guide-757b9cc58cf7?postPublishedType=initial)
-2. 📊 Slides()
+2. 📊 [Slides](https://docs.google.com/presentation/d/1RURt9BK_-6hakFmFSqW7MPvqX-vPicFTh9VBf3NXRYc/edit?slide=id.g3af2a87c816_0_6#slide=id.g3af2a87c816_0_6)
 3. 🎥 Video Presentation()
 
 ---
