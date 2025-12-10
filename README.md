@@ -1,7 +1,6 @@
 # 🧠 Time-Series Anomaly Detection: A Decade Review (2024)
 
-### 📚 Overview  
-This repository contains the short-story assignment for **CMPE 255 – Data Mining (Fall 2025)**.  
+## 📚 Overview  
 The topic is based on the 2024 arXiv survey paper:  
 **“Dive into Time-Series Anomaly Detection: A Decade Review.”**  
 This paper systematically reviews anomaly detection techniques for time-series data, covering classical statistical approaches to modern deep learning and foundation models.
@@ -34,34 +33,10 @@ The paper organizes research progress from 2014 to 2024 into a unified taxonomy:
 
 ---
 
-## 🧩 Implementation Plan
-Your final submission includes:
-1. **📄 Medium Article** – A rewritten short story summarizing the survey, focusing on:
-   - Method taxonomy  
-   - Model architectures & evaluation metrics  
-   - Visualization of key frameworks  
-   - Your own insights and future perspectives  
-   *(👉 Add your Medium link here)*  
-2. **📊 Slides (on SlideShare)** – 8–12 slides highlighting motivation, taxonomy, SOTA methods, and open challenges.  
-   *(👉 Add your SlideShare link here)*  
-3. **🎥 Video Presentation (10–15 min)** – Recorded walkthrough of the slides.  
-   *(👉 Add your video link here)*  
-
----
-
-## 🧠 Suggested Structure for the Medium Article
-1. **Introduction & Motivation**  
-   - Why anomaly detection matters; applications in healthcare, industry, and IoT.  
-2. **Evolution of Techniques (2014–2024)**  
-   - From classical statistics to deep learning to foundation models.  
-3. **Taxonomy of Methods**  
-   - Reconstruction / Prediction / Hybrid / Graph-based / Streaming.  
-4. **Datasets & Evaluation Metrics**  
-   - Overview of benchmark datasets and evaluation measures.  
-5. **Comparison of SOTA Models**  
-   - Highlight top 3–5 frameworks with diagrams.  
-6. **Challenges & Future Directions**  
-   - Label scarcity, domain generalization, real-time adaptation.
+## 🧩 Link
+1. 📄 Medium Article()
+2. 📊 Slides()
+3. 🎥 Video Presentation()
 
 ---
 
